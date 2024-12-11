@@ -7,14 +7,3 @@
 3. Download `sd-v1-4.ckpt` from https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 4. Download `hollie-mengert.ckpt` from https://huggingface.co/ogkalu/Illustration-Diffusion
 5. Download `inkpunk-diffusion-v1.ckpt` from https://huggingface.co/Envvi/Inkpunk-Diffusion
-
-
-## Tested fine-tuned models:
-
-Just download the `ckpt` file from any fine-tuned SD (up to v1.5).
-
-1. InkPunk Diffusion: https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
-2. Illustration Diffusion (Hollie Mengert): https://huggingface.co/ogkalu/Illustration-Diffusion/tree/main
-
-
-
