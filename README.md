@@ -1,4 +1,4 @@
-# pytorch-diffusion-main
+# diffusion-main
 
 ## Download weights and tokenizer files:
 
