@@ -7,3 +7,6 @@
 3. Download `sd-v1-4.ckpt` from https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 4. Download `hollie-mengert.ckpt` from https://huggingface.co/ogkalu/Illustration-Diffusion
 5. Download `inkpunk-diffusion-v1.ckpt` from https://huggingface.co/Envvi/Inkpunk-Diffusion
+
+## Acknowledge
+This work is building on the 'PyTorch implementation of Stable Diffusion from scratch' by Umar Jamil
